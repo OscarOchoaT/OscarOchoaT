@@ -10,5 +10,5 @@
 </a>
 
 <a href="https://github.com/NulledCodeDev">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=NulledCodeDev&layout=compact&theme=synthwave />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=NulledCodeDev&layout=compact&theme=radical />
 </a>
