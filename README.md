@@ -1,5 +1,5 @@
 ### Hi, I'm NulledCode 👋
- 
+<br /> 
 * 🔭 I’m currently working on [@NulledDevelopment](https://github.com/NulledDevelopment).  
 * 🌱 I’m currently learning [PHP](https://https://www.php.net/).  
 * 👯 I’m looking to collaborate on something cool.  
@@ -11,3 +11,13 @@
 <a href="https://github.com/NulledCodeDev">
   <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=NulledCodeDev&layout=compact&theme=radical />
 </a>
+
+<a href="https://twitter.com/Nulled_Code">
+  <img align="left" alt="RisasDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<br />
+<br />
+<a href="https://community.ndevelopment.tech">
+  <img align="left" alt="NulledCode#5189" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+<br />
