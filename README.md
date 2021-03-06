@@ -18,7 +18,7 @@
 <br />
 
 <a href="https://twitter.com/Nulled_Code">
-  <img align="left" alt="RisasDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="NulledCodeDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 <a href="https://community.ndevelopment.tech">
