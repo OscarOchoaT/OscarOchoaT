@@ -9,7 +9,9 @@
 
 <br />
 
-[<img align="left" alt="hcfuno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Nulled_Code | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+
+<br />
 
 <a href="https://github.com/NulledCodeDev">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=NulledCodeDev&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
