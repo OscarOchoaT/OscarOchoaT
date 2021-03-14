@@ -9,7 +9,7 @@
 
 <br />
 
-<img align="left" alt="NulledCodeDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />[twitter] 
+<img align="left" alt="NulledCodeDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />[My_Twitter] 
 
 <br />
 
@@ -34,5 +34,5 @@
 
 <br />
 
-[twitter]: https://twitter.com/Nulled_Code
+[My_Twitter]: https://twitter.com/Nulled_Code
 [webdevplaylist]: https://twitter.com/Nulled_Code
