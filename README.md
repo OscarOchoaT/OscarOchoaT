@@ -2,9 +2,9 @@
 
 <br />
 
-* 🔭 Im currently working on [@NulledDevelopment](https://github.com/NulledDevelopment) and [@AstralMC](https://github.com/AstralMC).  
-* 🌱 Im currently learning [PHP](https://https://www.php.net/).  
-* 📫 How to reach me: contacto@ndevelopment.tech or NulledCode#5189 in discord
+- 🔭 Im currently working on [@NulledDevelopment](https://github.com/NulledDevelopment) and [@AstralMC](https://github.com/AstralMC).  
+- 🌱 Im currently learning [PHP](https://https://www.php.net/).  
+- 📫 How to reach me: contacto@ndevelopment.tech or NulledCode#5189 in discord
 
 <br />
 
