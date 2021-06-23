@@ -2,7 +2,7 @@
 
 <br />
 
-- 🔭 Im currently working on [@NulledDevelopment](https://github.com/NulledDevelopment), [@AstroGames](https://github.com/AstroGames), [@AstralMC](https://github.com/AstralMC) and [@StrainLLC](https://github.com/StrainLLC).  
+- 🔭 I'm currently working on [@NulledDevelopment](https://github.com/NulledDevelopment), [@AstroGames](https://github.com/AstroGames), [@AstralMC](https://github.com/AstralMC) and [@StrainLLC](https://github.com/StrainLLC).  
 - 🌱 Im currently learning [PHP](https://https://www.php.net/).  
 - 📫 How to reach me: contacto@ndevelopment.tech or NulledCode#5189 in discord
 
