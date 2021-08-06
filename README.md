@@ -6,17 +6,22 @@
 - 🌱 Im currently learning [PHP](https://https://www.php.net/).  
 - 📫 How to reach me: nulledcode@ndevelopment.tech or NulledCode#5189 in discord
 
+###CONTACT
+
+</br>
+
+<img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+<string>NulledCode</string>
+
+<img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
+<string>NulledCode</string>
+
 <br />
 
-<img align="left" alt="NulledCodeDev" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />[My Twitter] 
-
-<br />
+###STATS
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NulledCodeDev&theme=radical)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NulledCodeDev&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/NulledCodeDev/)
-
-<br />
-<br />
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="Intellij Idea Ultimate" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />][webdevplaylist]
