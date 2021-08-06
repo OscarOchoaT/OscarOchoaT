@@ -4,13 +4,13 @@
 - 🌱 Im currently learning [PHP](https://https://www.php.net/).  
 - 📫 How to reach me: nulledcode@ndevelopment.tech or NulledCode#5189 in discord
 
-##CONTACT
+## CONTACT
 
 </br><img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/> NulledCode#5189
 
 </br><img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/> Nulled_Code
 
-##STATS
+## STATS
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NulledCodeDev&theme=radical)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NulledCodeDev&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/NulledCodeDev/)
