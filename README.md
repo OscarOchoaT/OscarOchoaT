@@ -22,7 +22,7 @@
 
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NulledCodeDev&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NulledCodeDev&theme=radical&ring=9F00DD&fire=DD2727)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NulledCodeDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/NulledCodeDev/)
 
 </br>
