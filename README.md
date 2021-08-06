@@ -12,6 +12,8 @@
 
 <br />
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m0rais&theme=ayu-mirage)](https://git.io/streak-stats)
+
 <a href="https://github.com/NulledCodeDev">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=NulledCodeDev&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical />
 </a>
