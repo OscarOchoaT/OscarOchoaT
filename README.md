@@ -1,18 +1,16 @@
 ## Hi, Im NulledCode <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<br />
-
 - 🔭 I'm currently working on [@SkillWars-Team](https://github.com/orgs/SkillWars-Team) [@NulledDevelopment](https://github.com/NulledDevelopment), [@AstroGames](https://github.com/AstroGames), [@AstralMC](https://github.com/AstralMC) and [@StrainLLC](https://github.com/StrainLLC).  
 - 🌱 Im currently learning [PHP](https://https://www.php.net/).  
 - 📫 How to reach me: nulledcode@ndevelopment.tech or NulledCode#5189 in discord
 
-###CONTACT
+##CONTACT
 
-</br><img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/> [NulledCode#5189]
+</br><img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/> NulledCode#5189
 
-</br><img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/> [Nulled_Code]
+</br><img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/> Nulled_Code
 
-###STATS
+##STATS
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NulledCodeDev&theme=radical)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NulledCodeDev&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/NulledCodeDev/)
@@ -25,8 +23,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
 
 [My Twitter]: https://twitter.com/Nulled_Code
 [webdevplaylist]: https://twitter.com/Nulled_Code
