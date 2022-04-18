@@ -22,7 +22,7 @@
 
 <img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/> NulledCode#5189
 
-</br><img align="left" alt="NulledCodeDev" target="https://twitter.com/Nulled_Code" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/> Nulled_Code
+</br><img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/> Nulled_Code
 
 </br>
 
