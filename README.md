@@ -22,8 +22,7 @@
 
 </br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NulledCodeDev&theme=radical&ring=9F00DD&fire=DD2727)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NulledCodeDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/NulledCodeDev/)
+![Metrics](https://metrics.lecoq.io/NulledCodeDev?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FPanama&config.padding=0%2C%2015%25)
 
 </br>
 
