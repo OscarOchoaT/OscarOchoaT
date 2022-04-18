@@ -1,13 +1,5 @@
 ## Hi, Im NulledCode <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-</br>
-
-- 🔭 I'm currently working on [@Stormworth](https://github.com/Stormworth), [@StrainLLC](https://github.com/orgs/StrainLLC).  
-- 🌱 Im currently learning [PHP](https://https://www.php.net/).  
-- 📫 How to reach me: nulledcode@ndevelopment.tech or NulledCode#5189 in discord
-
-</br>
-
 ## CONTACT
 
 </br>
