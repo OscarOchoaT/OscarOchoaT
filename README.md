@@ -1,15 +1,5 @@
 ## Hi, Im NulledCode <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-## CONTACT
-
-</br>
-
-<img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/> NulledCode#5189
-
-</br><img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/> Nulled_Code
-
-</br>
-
 ## STATS
 
 </br>
@@ -28,3 +18,14 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 [webdevplaylist]: https://twitter.com/Nulled_Code
+
+## CONTACT
+
+</br>
+
+<img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/> NulledCode#5189
+
+</br><img align="left" alt="NulledCodeDev" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/> Nulled_Code
+
+</br>
+
