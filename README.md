@@ -33,6 +33,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/oscarochoat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oscarochoat" /></a><a href="https://ko-fi.com/oscarochoat"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="oscarochoat" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarochoat&show_icons=true&locale=en&layout=compact" alt="oscarochoat" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarochoat&show_icons=true&locale=en" alt="oscarochoat" /></p>
