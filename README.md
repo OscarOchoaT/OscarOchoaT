@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python and Ruby on Rails**
 
-- 👯 I’m looking to collaborate on [ASCEND MC](https://github.com/AscendMCodes)
-
 - 🤝 I’m looking for help with [ESSN](https://github.com/ESSN-Repo)
 
 - 👨‍💻 All of my projects are available at [https://oscarochoat.github.io](https://oscarochoat.github.io)
