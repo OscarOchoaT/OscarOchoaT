@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarochoat&label=Profile%20views&color=0e75b6&style=flat" alt="oscarochoat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarochoat" alt="oscarochoat" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarochoat&rank=-C,-B" alt="oscarochoat" /></a> </p>
 
 - 🔭 I’m currently working on [ESSN](https://github.com/ESSN-Repo)
 
