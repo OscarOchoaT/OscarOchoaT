@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Python and Ruby on Rails**
 
-- 🤝 I’m looking for help with [ESSN](https://github.com/ESSN-Repo)
-
-- 👨‍💻 All of my projects are available at [https://oscarochoat.github.io](https://oscarochoat.github.io)
-
 - 💬 Ask me about **React, JS, Angular, Java, Kotlin, HTML, PHP, CSS, SCSS, TypeScript**
 
 - 📫 How to reach me **oscarfdo231@gmail.com**
