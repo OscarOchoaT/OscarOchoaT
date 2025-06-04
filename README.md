@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarochoat&rank=-C,-B" alt="oscarochoat" /></a> </p>
 
-- ![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarfdo231&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)
+- ![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscarochoat&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)
 
 - 🔭 I’m currently working on [ESSN](https://github.com/ESSN-Repo)
 
