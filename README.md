@@ -42,7 +42,7 @@
 
 ### 🛠️ Current Projects
 
-- 🔥 Working on **Oscar Ochoa Studio** (cloud-based system)
+- 🔥 Working on **Oscar Ochoa Studio**
 - 🤖 Building automation tools (LinkedIn, bots, scraping)
 - 🌐 Creating high-end websites for clients
 
