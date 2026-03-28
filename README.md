@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/oscarochoat">LinkedIn</a> •
   <a href="https://github.com/oscarochoat">GitHub</a> •
-  <a href="mailto:oscarfdo231@gmail.com">Email</a>
+  <a href="mailto:contacto@oscarochoa.pro">Email</a>
 </p>
 
 ---
